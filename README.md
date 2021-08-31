@@ -15,7 +15,7 @@
   <img align="center" alt="Rafael-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Rafael-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafael-Ts" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="right" alt="Sudden" width="300" src="https://cdn.discordapp.com/attachments/857452172115181588/882236650867023923/coding.gif">
+  <img align="right" alt="Sudden" width="300" src="https://cdn.discordapp.com/attachments/857452172115181588/882348383992447027/coding.gif">
 </div>
  
   ##
