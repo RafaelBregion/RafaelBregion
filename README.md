@@ -1,7 +1,8 @@
 ### Bem vindo(a) ao meu Perfil!
 
-- 🔭 Estou atualmente trabalhando com Front-End
-- 🌱 Estou atualmente aprendendo React.js
+- 🔭 Front-End
+- 💻 Consultant na Ernst & Young
+- 🌱 Estudando Angular
 - 📫 Meu contato: rafaelblourenco@hotmail.com
 
  <div>
