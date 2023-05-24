@@ -1,7 +1,7 @@
 ### Bem vindo(a) ao meu Perfil!
 
 - 🔭 Front-End
-- 💻 Consultant na Ernst & Young
+- 💻 Open to Work
 - 🌱 Estudando Angular
 - 📫 Meu contato: rafaelblourenco@hotmail.com
 
