@@ -1,9 +1,9 @@
-### Bem vindo(a) ao meu Perfil!
+### Welcome to my Profile!
 
 - 🔭 Front-End
 - 💻 Open to Work
-- 🌱 Estudando Angular
-- 📫 Meu contato: rafaelblourenco@hotmail.com
+- 🌱 Studying Angular
+- 📫 Contact: rafaelblourenco@hotmail.com
 
  <div>
   <a href="https://github.com/RafaelBregion">
@@ -14,6 +14,7 @@
   <img align="center" alt="Rafael-React" height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Rafael-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Rafael-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Rafael-CSS" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Rafael-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafael-Ts" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="right" alt="Sudden" width="300" src="https://cdn.discordapp.com/attachments/857452172115181588/882348383992447027/coding.gif">
