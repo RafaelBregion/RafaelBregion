@@ -2,7 +2,7 @@
 
 - 🔭 Front-End
 - 💻 Open to Work
-- 🌱 Studying Angular
+- 🌱 Studying React / Next
 - 📫 Contact: rafaelblourenco@hotmail.com
 
  <div>
