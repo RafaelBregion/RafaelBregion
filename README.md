@@ -18,7 +18,6 @@
   <img align="center" alt="Rafael-JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafael-Angular" height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Rafael-React" height="30" src="https://img.shields.io/badge/-React.JS-61DAFB?logo=react&style=for-the-badge&logoColor=black">
-  <img align="center" alt="Rafael-Next" height="30" src="https://img.shields.io/badge/next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=whtie">
    
   <img align="right" alt="Sudden" width="300" src="https://cdn.discordapp.com/attachments/857452172115181588/882348383992447027/coding.gif">
 </div>
